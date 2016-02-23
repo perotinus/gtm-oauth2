@@ -30,7 +30,7 @@
 #endif
 
 #if GTM_USE_SESSION_FETCHER
-  #import "GTMSessionFetcher.h"
+  //#import "GTMSessionFetcher.h"
 #else
   #import "GTMHTTPFetcher.h"
 #endif  // GTM_USE_SESSION_FETCHER
