@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
       The Google Toolbox for Mac OAuth 2 Controllers make it easy for Cocoa
       applications to sign in to services using OAuth 2 for authentication
       and authorization.
-      
+
       This version can be used with iOS ≥ 6.0 or OS X ≥ 10.8.
                    DESC
 
